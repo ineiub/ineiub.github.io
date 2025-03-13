@@ -107,7 +107,7 @@ if (localStorage.getItem("theme") === "light_theme") {
 /**
  * contact form submission
  */
-const contactForm = document.querySelector(".contact-form");
+const contactForm = document.querySelector("contact-form");
 
 contactForm.addEventListener("submit", function (event) {
   event.preventDefault();
