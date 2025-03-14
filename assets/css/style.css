@@ -613,7 +613,8 @@ main { overflow-x: hidden; }
 .skill-icon {
   width: 65px;
   height: 65px;
-  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
 }
 
 
